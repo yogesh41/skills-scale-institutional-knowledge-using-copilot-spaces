@@ -12,6 +12,7 @@ Welcome to the OctoAcme Project Management knowledge base. This folder contains 
 - [Release & Deployment](octoacme-release-and-deployment.md) — Moving code to production safely and reliably
 - [Retrospectives & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — Learning from experience to improve processes
 - [Roles & Personas](octoacme-roles-and-personas.md) — Understanding key roles and responsibilities
+- [Role Accountability Checklist](octoacme-role-accountability-checklist.md) — Practical ownership checks for planning and release readiness
 
 ---
 
